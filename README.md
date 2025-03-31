@@ -133,25 +133,6 @@ DRISHTI delivers significant improvements across key performance indicators:
 | **Cost Optimization** | 28% reduction | Improved resource utilization |
 | **Revenue Opportunities** | 15% increase | New service offerings |
 
-### Return on Investment
-
-```mermaid
-graph LR
-    A[Initial Investment] --> B[Year 1: 40% ROI]
-    B --> C[Year 2: 85% ROI]
-    C --> D[Year 3: 130% ROI]
-    
-    classDef investment fill:#f9f9f9,stroke:#333,stroke-width:2px
-    classDef roi1 fill:#d1e7dd,stroke:#333,stroke-width:2px
-    classDef roi2 fill:#a3cfbb,stroke:#333,stroke-width:2px
-    classDef roi3 fill:#75b798,stroke:#333,stroke-width:2px
-    
-    class A investment
-    class B roi1
-    class C roi2
-    class D roi3
-```
-
 ### Key Performance Improvements
 - **Mail Processing Time**: Reduced by 32% through intelligent sorting optimization
 - **Delivery Accuracy**: Improved by 28% with predictive routing algorithms
@@ -210,15 +191,6 @@ gantt
     Full-scale Rollout             :e3, after e2, 60d
     Post-implementation Support    :e4, after e3, 90d
 ```
-
-### System Requirements
-
-| Component | Specifications | Purpose |
-|-----------|---------------|---------|
-| **Central Server** | 64-core CPU, 256GB RAM, 10TB NVMe SSD | Main processing engine |
-| **Edge Nodes** | 8-core processor, 32GB RAM, 1TB SSD | Divisional data processing |
-| **IoT Devices** | LoRaWAN, GPS, MQTT-enabled | Field data collection |
-| **Network** | 10Gbps fiber, VPN, redundant firewalls | Secure data transmission |
 
 ### Implementation Strategy
 1. **Phase 1: Foundation** (Month 1-3)
@@ -279,6 +251,5 @@ gantt
 
 ---
 <div align="center">
-  <img src="/api/placeholder/800/150" alt="Project Partners" />
   <p>© 2025 Team DRISHTI_ | Smart India Hackathon 2024 Finalist</p>
 </div>
